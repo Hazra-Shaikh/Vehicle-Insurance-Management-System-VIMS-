@@ -1,0 +1,81 @@
+﻿customer_id,first_name,last_name,gender,date_of_birth,phone,email,city,state,registration_date
+C001,Shruti,More,Female,1994-12-04,8126563621,shruti.more@outlook.com,Pune,Maharashtra,2022-12-27
+C002,Swati,More,Female,1983-11-21,9225035027,swati.more@outlook.com,Nashik,Maharashtra,2023-04-02
+C003,Tanvi,Verma,Female,1983-11-11,8550935218,tanvi.verma@outlook.com,Delhi,Delhi,2023-04-15
+C004,Tanvi,Bhosale,Female,1991-10-26,6856625749,tanvi.bhosale@gmail.com,Delhi,Delhi,2022-04-25
+C005,Ajay,Pawar,Male,1987-08-17,6772882330,ajay.pawar@gmail.com,Bengaluru,Karnataka,2023-03-29
+C006,Sakshi,Rao,Female,1990-06-23,9819142805,sakshi.rao@outlook.com,Indore,Madhya Pradesh,2022-05-09
+C007,Nidhi,Khan,Female,1987-06-26,9317466370,,Bengaluru,Karnataka,2023-02-17
+C008,Meera,Sharma,Female,1995-05-31,9962801954,meera.sharma@outlook.com,Pune,Maharashtra,2023-03-28
+C009,Swati,Reddy,Female,1987-10-13,9967539665,swati.reddy@outlook.com,Mumbai,Maharashtra,2022-08-27
+C010,Nidhi,Das,Female,2003-04-18,9971772377,nidhi.das@yahoo.com,Jaipur,Rajasthan,2022-05-29
+C011,Harsh,Rao,Male,1989-02-09,7557174076,harsh.rao@yahoo.com,Hyderabad,Telangana,2022-05-13
+C012,Priya,Khan,Female,1988-05-11,7902677112,priya.khan@gmail.com,Mumbai,Maharashtra,2022-07-09
+C013,Pooja,More,Female,1970-02-19,6755126092,pooja.more@yahoo.com,Indore,Madhya Pradesh,2022-01-01
+C014,Kunal,Kulkarni,Male,1999-09-23,8266173260,kunal.kulkarni@yahoo.com,Ahmedabad,Gujarat,2022-10-07
+C015,Vikas,Das,Male,2000-07-08,7686052164,vikas.das@yahoo.com,Ahmedabad,Gujarat,2023-04-20
+C016,Yash,Menon,Male,1992-10-30,8190659470,yash.menon@outlook.com,Pune,Maharashtra,2023-03-25
+C017,Neha,Joshi,Female,1992-04-15,9519196655,neha.joshi@outlook.com,Chennai,Tamil Nadu,2022-06-06
+C018,Omkar,Reddy,Male,1970-10-05,6995285742,omkar.reddy@gmail.com,Nagpur,Maharashtra,2022-07-19
+C019,Swati,Sharma,Female,1987-05-10,8583334557,,Pune,Maharashtra,2022-06-17
+C020,Sneha,Kale,Female,1991-08-23,7734862558,sneha.kale@gmail.com,Lucknow,Uttar Pradesh,2022-11-13
+C021,Akash,Verma,Male,1992-11-01,6687716833,akash.verma@outlook.com,Nagpur,Maharashtra,2022-04-30
+C022,Isha,Reddy,Female,1973-10-11,6585138951,isha.reddy@outlook.com,Surat,Gujarat,2022-01-24
+C023,Yash,Rao,Male,1966-12-02,7943326434,yash.rao@outlook.com,Hyderabad,Telangana,2022-03-08
+C024,Aditya,Das,Male,1983-06-30,9184459259,aditya.das@yahoo.com,Delhi,Delhi,2022-05-20
+C025,Shruti,Iyer,Female,1977-10-26,9408883592,shruti.iyer@yahoo.com,Nagpur,Maharashtra,2022-08-26
+C026,Neha,Mehta,Female,1985-12-11,8976336909,neha.mehta@outlook.com,Bengaluru,Karnataka,2022-03-03
+C027,Rahul,Nair,Male,1970-03-06,8538089306,rahul.nair@yahoo.com,Pune,Maharashtra,2023-03-26
+C028,Aarav,Shah,Male,1981-10-11,7217782500,aarav.shah@outlook.com,Delhi,Delhi,2022-10-15
+C029,Nidhi,Menon,Female,1991-07-25,8819737048,nidhi.menon@outlook.com,Hyderabad,Telangana,2022-05-31
+C030,Rohan,Gupta,Male,1985-07-24,6915091094,rohan.gupta@gmail.com,Pune,Maharashtra,2022-03-29
+C031,Neha,Khan,Female,1988-09-22,6412497685,neha.khan@yahoo.com,Surat,Gujarat,2022-06-10
+C032,Neha,Gupta,Female,1966-08-16,9116567828,neha.gupta@yahoo.com,Mumbai,Maharashtra,2022-07-30
+C033,Rohan,Nair,Male,1971-07-09,8438201222,,Pune,Maharashtra,2022-02-18
+C034,Payal,Khan,Female,1993-08-05,8752604874,payal.khan@yahoo.com,Surat,Gujarat,2022-01-20
+C035,Ajay,More,Male,1996-04-27,8638225743,ajay.more@gmail.com,Nashik,Maharashtra,2023-03-26
+C036,Divya,Singh,Female,1981-12-25,9125408290,divya.singh@outlook.com,Lucknow,Uttar Pradesh,2022-01-30
+C037,Aditi,Singh,Female,2000-07-02,8924519279,aditi.singh@gmail.com,Hyderabad,Telangana,2023-02-14
+C038,Aditi,Menon,Female,1990-04-27,7702221890,aditi.menon@yahoo.com,Jaipur,Rajasthan,2023-05-05
+C039,Rohan,Iyer,Male,1971-04-22,8740972993,rohan.iyer@gmail.com,Ahmedabad,Gujarat,2022-01-20
+C040,Ananya,Pawar,Female,1981-12-20,9356952839,ananya.pawar@yahoo.com,Ahmedabad,Gujarat,2022-08-01
+C041,Riya,Joshi,Female,1967-04-11,9373776576,riya.joshi@outlook.com,Mumbai,Maharashtra,2022-12-05
+C042,Kunal,Sharma,Male,1990-04-11,8437954538,kunal.sharma@yahoo.com,Pune,Maharashtra,2022-09-03
+C043,Mayur,Deshmukh,Male,1990-10-22,8465837809,mayur.deshmukh@outlook.com,Delhi,Delhi,2022-01-20
+C044,Isha,Das,Female,1994-03-01,9162595838,isha.das@gmail.com,Delhi,Delhi,2023-05-16
+C045,Omkar,Joshi,Male,1983-11-26,7703002920,omkar.joshi@yahoo.com,Indore,Madhya Pradesh,2022-12-29
+C046,Aditi,Reddy,Female,1986-08-08,9946783894,aditi.reddy@yahoo.com,Nagpur,Maharashtra,2022-11-23
+C047,Kavya,Iyer,Female,1972-11-24,8973761791,kavya.iyer@gmail.com,Surat,Gujarat,2022-09-06
+C048,Isha,Khan,Female,1979-06-01,8248134051,,Pune,Maharashtra,2022-07-10
+C049,Aarav,Chavan,Male,1997-03-15,6522276922,aarav.chavan@yahoo.com,Mumbai,Maharashtra,2022-10-26
+C050,Nidhi,Bhosale,Female,1995-09-08,6191844356,nidhi.bhosale@outlook.com,Delhi,Delhi,2022-03-22
+C051,Pranav,Mehta,Male,1979-12-04,7274172362,pranav.mehta@outlook.com,Mysuru,Karnataka,2022-01-22
+C052,Shruti,Chavan,Female,1972-01-05,7902088025,shruti.chavan@yahoo.com,Mumbai,Maharashtra,2023-05-14
+C053,Ajay,Khan,Male,1984-12-16,7875220321,ajay.khan@outlook.com,Bengaluru,Karnataka,2022-07-02
+C054,Aditya,Mehta,Male,1973-05-09,6502177935,aditya.mehta@gmail.com,Mysuru,Karnataka,2022-01-15
+C055,Siddharth,Singh,Male,1972-12-01,7235854608,siddharth.singh@outlook.com,Mumbai,Maharashtra,2022-11-03
+C056,Vikas,Kale,Male,2003-07-22,9381933673,vikas.kale@gmail.com,Pune,Maharashtra,2023-01-08
+C057,Sneha,Shah,Female,1988-05-16,7989748816,sneha.shah@outlook.com,Bengaluru,Karnataka,2022-03-03
+C058,Rutuja,Menon,Female,1969-02-05,9935329516,rutuja.menon@gmail.com,Nagpur,Maharashtra,2023-02-03
+C059,Meera,Das,Female,1980-07-30,8446489639,meera.das@outlook.com,Mumbai,Maharashtra,2022-08-10
+C060,Divya,Mehta,Female,2002-03-04,8914782451,divya.mehta@gmail.com,Pune,Maharashtra,2022-08-26
+C061,Anjali,Menon,Female,1972-12-04,7563100113,anjali.menon@outlook.com,Nashik,Maharashtra,2022-08-15
+C062,Aditi,Kulkarni,Female,2003-09-25,8256081577,,Nagpur,Maharashtra,2023-03-20
+C063,Riya,Mehta,Female,1991-03-07,8415110374,riya.mehta@gmail.com,Kolkata,West Bengal,2023-01-31
+C064,Divya,Jadhav,Female,1998-02-20,9461676063,divya.jadhav@outlook.com,Pune,Maharashtra,2022-06-18
+C065,Yash,Das,Male,2003-09-23,7555735051,yash.das@outlook.com,Delhi,Delhi,2022-12-08
+C066,Aditi,Patil,Female,1998-07-01,8700137340,aditi.patil@gmail.com,Indore,Madhya Pradesh,2022-03-30
+C067,Pooja,Mehta,Female,1993-06-10,9463726335,pooja.mehta@yahoo.com,Ahmedabad,Gujarat,2022-08-01
+C068,Vihaan,Nair,Male,1995-08-21,8119099788,vihaan.nair@yahoo.com,Surat,Gujarat,2023-03-13
+C069,Harsh,Bhosale,Male,1994-04-08,7678705200,harsh.bhosale@gmail.com,Mumbai,Maharashtra,2022-07-09
+C070,Rohan,Joshi,Male,1975-11-04,7750775672,rohan.joshi@yahoo.com,Nagpur,Maharashtra,2023-04-28
+C071,Amit,Deshmukh,Male,1997-12-06,7216024129,amit.deshmukh@outlook.com,Ahmedabad,Gujarat,2022-09-25
+C072,Nikhil,Pawar,Male,1990-09-07,7605485191,nikhil.pawar@outlook.com,Pune,Maharashtra,2023-01-11
+C073,Aditi,Shah,Female,1987-07-09,8368545197,aditi.shah@yahoo.com,Nagpur,Maharashtra,2022-05-11
+C074,Yash,Joshi,Male,2002-04-15,9313389115,yash.joshi@yahoo.com,Pune,Maharashtra,2022-07-07
+C075,Meera,Bhosale,Female,1983-12-10,6975034788,,Delhi,Delhi,2022-06-05
+C076,Tanvi,Das,Female,1979-05-25,6647215487,tanvi.das@outlook.com,Bengaluru,Karnataka,2022-09-05
+C077,Sakshi,Mehta,Female,1982-02-25,7915317395,sakshi.mehta@gmail.com,Surat,Gujarat,2022-04-03
+C078,Divya,Khan,Female,1993-05-02,9358659374,divya.khan@gmail.com,Pune,Maharashtra,2022-04-20
+C079,Akash,Bhosale,Male,1971-09-04,8932992635,akash.bhosale@gmail.com,Delhi,Delhi,2022-09-21
+C080,Pooja,Chavan,Female,1980-08-12,9671985370,pooja.chavan@outlook.com,Hyderabad,Telangana,2022-07-06

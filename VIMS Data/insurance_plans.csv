@@ -1,0 +1,7 @@
+﻿plan_id,plan_name,coverage_type,base_rate_pct,deductible
+P01,Third Party Basic,Third Party,2,1000
+P02,Own Damage Saver,Own Damage,2.6,2000
+P03,Comprehensive Silver,Comprehensive,3,2500
+P04,Comprehensive Gold,Comprehensive,3.8,2000
+P05,Comprehensive Platinum,Comprehensive,4.5,1000
+P06,Zero Depreciation Plus,Comprehensive,5,0

@@ -1,0 +1,16 @@
+﻿agent_id,agent_name,phone,city,hire_date,commission_pct
+A001,Rohan Kulkarni,9443043868,Pune,2019-09-01,10
+A002,Sneha Patil,9794923749,Pune,2021-11-14,5
+A003,Amit Deshmukh,9745351751,Mumbai,2020-04-02,10
+A004,Priya Nair,9551631864,Bengaluru,2022-02-13,10
+A005,Vikram Singh,9884410270,Delhi,2022-01-26,8
+A006,Neha Joshi,9930080574,Pune,2023-03-19,10
+A007,Sandeep Rao,9357627256,Hyderabad,2021-06-22,5
+A008,Pooja Mehta,9186676380,Ahmedabad,2022-06-11,5
+A009,Karan Malhotra,9976990827,Mumbai,2020-08-11,5
+A010,Anjali Iyer,9112336038,Chennai,2021-07-09,8
+A011,Rahul Bhosale,9437405251,Nashik,2022-10-23,6
+A012,Divya Reddy,9370060143,Hyderabad,2021-03-24,7.5
+A013,Manish Gupta,9964508088,Delhi,2020-12-31,8
+A014,Swati Kale,9651460429,Nagpur,2023-03-08,5
+A015,Arjun Menon,9465495893,Bengaluru,2023-01-20,5
