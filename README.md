@@ -15,7 +15,7 @@ The **Vehicle Insurance Management System (VIMS)** is a SQL-based data analysis 
 - Identified missing data using SQL joins and filtering.
 
 ## 💻 SQL Concepts
-`JOIN` · `GROUP BY` · `Subqueries` · `CTEs` · `CASE WHEN` · `Window Functions` · Aggregate Functions
+`JOIN` · `GROUP BY` · `Subqueries` · `CTEs` · `CASE WHEN` · `Window Functions` · `Aggregate Functions`
 
 ## 📊 Project Details
 - **7 relational tables**
@@ -24,15 +24,16 @@ The **Vehicle Insurance Management System (VIMS)** is a SQL-based data analysis 
 
 ## 🚀 How to Run the Project
 
-1.Clone or download this repository.
+1. Clone or download this repository.
+2. Open MySQL Workbench and create the database:
 
-2.Open MySQL Workbench and create the database:
+   ```sql
+   CREATE DATABASE vims;
+   USE vims;
+   ```
 
-CREATE DATABASE vims;
-USE vims;
+3. Create the seven tables using the provided SQL script or table definitions.
+4. Import the CSV files into their corresponding tables, respecting foreign-key dependencies.
+5. Execute the SQL queries to reproduce the analysis.
 
-3.Create the seven tables using the provided SQL script or table definitions.
 
-4.Import the CSV files into their corresponding tables, respecting foreign-key dependencies.
-
-5.Execute the SQL queries to reproduce the analysis.
